@@ -1,3 +1,4 @@
+```text
 ╔═══════════════════════════════════════════════════════════════════════════╗ 
 ║                                                                           ║
 ║             ██████╗  █████╗ ██████╗ ████████╗ ██████╗ ██████╗             ║ 
@@ -25,7 +26,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⢿⣿⠟⠀⠸⣊⡽⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⣿⡁⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠿⣿⣧⠀ Get them bugs.....⠀⠀⠀⠀⠀⠀⠀⠀
-
+```
 # RAPTOR - Autonomous Offensive/Defensive Security Research Framework, based on Claude Code
 
 <a href="https://smithery.ai/skills?ns=gadievron&amp;utm_source=github&amp;utm_medium=badge"><img src="https://smithery.ai/badge/skills/gadievron"></a>
