@@ -779,7 +779,7 @@ Examples:
     except Exception as e:
         logger.debug(f"SAGE post-scan storage skipped: {e}")
 
-    print(f"\n📊 Summary:")
+    print("\n📊 Summary:")
     print(f"   Total findings: {scan_metrics.get('total_findings', 0)}")
     if semgrep_metrics:
         print(f"     Semgrep: {semgrep_metrics.get('total_findings', 0)}")
