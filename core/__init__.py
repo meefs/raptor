@@ -15,7 +15,6 @@ from core.sarif.parser import (
 )
 
 from core.git import clone_repository
-from core.semgrep import run_semgrep
 from core.exec import run
 from core.hash import sha256_tree
 
@@ -28,7 +27,5 @@ __all__ = [
     "generate_scan_metrics",
     "sanitize_finding_for_display",
     "clone_repository",
-    "run_semgrep",
-    "run",
     "sha256_tree",
 ]
